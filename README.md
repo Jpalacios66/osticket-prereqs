@@ -37,7 +37,7 @@ You will enable IIS. You will go to control panel, programs, then program featur
 
 
 <p>
-<img src="VC.png "
+<img src="https://github.com/Jpalacios66/osticket-prereqs/blob/main/Install%20VC%20redist.x86.png"
   width="750%" height="750%"/>
   
 <p>
@@ -46,9 +46,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="VC.png" height="80%" width="80%"/>
+<img src="https://github.com/Jpalacios66/osticket-prereqs/blob/main/Install%20VC%20redist.x86.png" height="750%" width="750%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Install VCredist.x86
+<p>
+<img src="Install mysql" width="750%" height="750%"
+<p>
