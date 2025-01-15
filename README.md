@@ -28,24 +28,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/1f78f521-656c-45fd-90ef-d7586853efb4)
-"
+<img src="IIS.png"
+  width="750%" height="750%"
+
+<p>
+You will enable IIS. You will go to control panel, programs, then program features, you will click turn windows features on or off. You will then click Internet Information Services and check that box and expand it, then expand World Wide Web Services, then expand Application Deployment Features and check CGI.
+
+
+
+<p>
+<img src="VC.png "
+  width="750%" height="750%"/>
   
-<p>
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="VC.png" height="80%" width="80%"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
