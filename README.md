@@ -37,11 +37,11 @@ You will enable IIS. You will go to control panel, programs, then program featur
 
 
 <p>
-<img src="https://github.com/Jpalacios66/osticket-prereqs/blob/main/Install%20VC%20redist.x86.png"
+<img src="ppm.png"
   width="750%" height="750%"/>
   
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open the Osticket folder and click PHPmanager and install and from the same folder you will install rewrite module
 </p>
 <br />
 
@@ -55,4 +55,10 @@ Install VCredist.x86
   <p>
 Install mysql and choose typical setup and then launch mysql wizard and choose standard configuration, and create username and password.
 </p>  
+<p> 
+<img src="done (1).png"
+  width="650%" height="650%"
+<p> 
+Configure IIS as admin (Register new PHP manager, enable extensions, Name helpdesk etc.)
+</p>
 
