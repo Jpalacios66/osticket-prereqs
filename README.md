@@ -51,5 +51,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 Install VCredist.x86
 <p>
-<img src="Install mysql" width="750%" height="750%"
-<p>
+<img src="Install mysql.png" width="750%" height="750%"
+  <p>
+Install mysql and choose typical setup and then launch mysql wizard and choose standard configuration, and create username and password.
+</p>  
+
